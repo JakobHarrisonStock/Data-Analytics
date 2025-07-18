@@ -1,11 +1,11 @@
 # <center> Data Analytics Portfolio </center>
-<center> This is the portfolio of all class assignments I have completed in Data Analytics. </center> 
+<center> This is the portfolio of some projects I have completed in Data Analytics I & II, Econometrics I & II, and through personal study. </center> 
 
 
 ## My LinkedIn Profile
 - https://www.linkedin.com/in/jakob-harrison-stock
 ## Table of Contents
-1. **Module 1: Using Colab**
+1. **Module 1: Using Colab to create a digital Resume**
    - A1: Markdown CV
    - Description: This taught me markdown syntax and familiarity with .ipynb type files
    - https://colab.research.google.com/drive/1wbhiZUyjwjeKcdZPX2ByfBjU0Ja0W1sM?usp=sharing
