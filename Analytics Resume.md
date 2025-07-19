@@ -36,23 +36,23 @@ Performed hypothesis testing on Facebook ads and Starbucks promotions to evaluat
 *NumPy, pandas, matplotlib*  
 Performed data cleaning, subsetting, merging, and exploratory analysis on a Yelp reviews dataset. Created visualizations to highlight customer sentiment trends and business performance indicators.
 
-**[Insurance Claims Prediction](https://colab.research.google.com/drive/1FMYsP2ZS3q8huAUVkm6POmblZCsnE2Ab?authuser=1)**  
+**[Insurance Claims Prediction](https://colab.research.google.com/drive/143RGJsOUCCKHHPiC14C5WaI5Emr_uPXe?usp=sharing)**  
 *Python, Random Forest, Pandas, NumPy*  
 Built a predictive model to estimate insurance claim amounts based on demographic and health data. Evaluated model performance using MAE and RMSE and identified key predictors of claim likelihood to support risk pricing and marketing strategy.
 
-**[State Abortion Law Impact Simulation](https://colab.research.google.com/drive/1QZFMGkkbGbuPPsGWqFVvoo1CR-SUrc_D?authuser=1)**  
+**[State Abortion Law Impact Simulation](https://colab.research.google.com/drive/1yQ3ngMwfeWp7qs2BSXCsPgls_sak52al?usp=sharing)**  
 *Python, Faker, Pandas, NumPy*  
 Simulated abortion law policy changes across 50 U.S. states using generated time-series data. Created a framework for tracking restriction dates, intensity, and total pregnancy rates to evaluate hypothetical legislative impacts post-Roe v. Wade.
 
-**[Wine Quality Clustering & Classification](https://colab.research.google.com/drive/1WBhkAFqfjnD5y07fsqubLnn10B2CcmBl?authuser=1)**  
+**[Wine Quality Clustering & Classification](https://colab.research.google.com/drive/1LmQ2Iu556C992h4HZUFIWesXM-OuduTV?usp=sharing)**  
 *Python, Seaborn, Matplotlib, Scikit-learn*  
 Analyzed chemical properties of wines and used clustering and classification algorithms to identify drivers of quality. Highlighted alcohol content, acidity, and residual sugar as leading indicators for wine scoring and market segmentation.
 
-**[Utah Jazz Free Agency Analysis](https://colab.research.google.com/drive/1MVwe1S-rheuwqgN6XTtU4m8Zwj8Sm4fD?authuser=1)**  
+**[Utah Jazz Free Agency Analysis](https://colab.research.google.com/drive/1lo1Es_akJ6Q3_B2nyTgpTRElNVT-_igt?usp=sharing)**  
 *Python, KMeans, Pandas, Scikit-learn*  
 Built a custom dataset merging player stats and salary data to support free agency decisions for the Utah Jazz. Identified undervalued interior defenders using clustering and data visualization to improve roster efficiency post-Rudy Gobert.
 
-**[University Retention Study](https://colab.research.google.com/drive/10bcjYlwZE20Jh-33hlvHrgcmTT0sASnY?authuser=1)**  
+**[University Retention Study](https://colab.research.google.com/drive/1tv8BiCay0cslDpJgkJbm_jufSfN0eok0?usp=sharing)**  
 *Excel, Python, Seaborn, Pandas*  
 Explored university retention data across demographics, event attendance, and academic outcomes. Produced visual insights and summary statistics to support policy decisions aimed at increasing retention and improving student support strategies.
 
