@@ -1,43 +1,92 @@
-# <center> Data Analytics Portfolio </center>
-<center> This is the portfolio of some projects I have completed in Data Analytics I & II, Econometrics I & II, and through personal study. </center> 
+ **<center>Jakob M. Harrison Stock </center>**  
 
+801.652.3825 | [Jakob.HarrisonStock@Outlook.com](mailto:Jakob.HarrisonStock@Outlook.com)  | [LinkedIn](https://linkedin.com/in/jakob-harrison-stock) |  [GitHub](https://github.com/JakobHarrisonStock/Data-Analytics)
 
-## My LinkedIn Profile
-- https://www.linkedin.com/in/jakob-harrison-stock
-## Table of Contents
-1. **Module 1: Using Colab to create a digital Resume**
-   - A1: Markdown CV
-   - Description: This taught me markdown syntax and familiarity with .ipynb type files
-   - https://colab.research.google.com/drive/1wbhiZUyjwjeKcdZPX2ByfBjU0Ja0W1sM?usp=sharing
-   
-2. **Module 2: Fundamentals of Programming for Data Analysis**
-   - A2 Programming Fundamentals
-   - Description: Learned the basics of Python (data types, conditional statements, loops, functions) 
-   - https://colab.research.google.com/drive/1GFFBG-GfhHLnFY_13F4-xegF0Oj9vTlL?usp=sharing
-   
-3. **Module 3: Working with Data**
-   - A3 Work with data Yelp Reviews
-   - Description: Reading/writing common dataset formats, execute conditional subsetting of data, merge data, and perform groupby summaries. Gained experience with **Numpy, Pandas, and Matplotlib**
-   - https://colab.research.google.com/drive/1YivrzRLORqhxaFPlkVTb7NlS0WHGESLF?usp=sharing
-  
-4. **Module 4: Stats review**
-   - A4 Hypothesis testing - FB ads and Starbucks promos
-   - Description: Practice coding summary statistics and hypothesis testing, an introduction in A/B testing and experience with the stats library.
-   - https://colab.research.google.com/drive/1G8OZEeHfswuwMtwn0CkhQdoJTEbMs3aN?usp=sharing
+---
 
-5. **Module 5: Regression**
-   - A5 Regression Analysis
-   - Description: Specifying, running, and interpreting regressions involving non-linear functional forms and heterogeneous effects. 
-   - https://colab.research.google.com/drive/1JIRbCgiYkU2E6qcyYsS1JTpmvRo-jFsS?usp=sharing
+### **Professional Summary**
 
-6. **Module 6: Clustering and Segmentation**
-   - A6 Segmentation (retail transactions and behavioral segmentation)
-   - Description: Practing applying feature engineering, k-means, segmenting, and transforming data into practical components. 
-   - https://colab.research.google.com/drive/1LzQww9JazEycS2sxJyeUR-b_61zGvdd3?usp=sharing
-   
- 7. Final Project
-      - TBD.
-   
+Analytical and detail-oriented Economics graduate with a concentration in Analytics and hands-on experience in Python, R, SQL, and statistical modeling. Proficient in regression analysis, clustering, A/B testing, and data visualization with a strong foundation in business communication and decision science. Experienced at translating complex data into strategic insights to optimize operations and solve real-world problems. Seeking an Analyst position to apply rigorous quantitative methods to drive business value.
 
-  
+---
 
+### **Technical Skills**
+
+**Languages & Tools:** Python (NumPy, pandas, matplotlib, seaborn), R, SQL, Excel (Solver, pivot tables), Stata  
+**Analytics Techniques:** OLS Regression, Clustering, Hypothesis Testing, A/B Testing, Feature Engineering  
+**Concepts:** Optimization, Econometrics, Segmentation, Data Wrangling, Visualization
+
+---
+
+### **Projects**
+
+**[Insurance Claims Prediction](https://colab.research.google.com/drive/143RGJsOUCCKHHPiC14C5WaI5Emr_uPXe?usp=sharing)**  
+*Python, Random Forest, Pandas, NumPy*  
+Built a predictive model to estimate insurance claim amounts based on demographic and health data. Evaluated model performance using MAE and RMSE and identified key predictors of claim likelihood to support risk pricing and marketing strategy.
+
+**[State Abortion Law Impact Simulation](https://colab.research.google.com/drive/1yQ3ngMwfeWp7qs2BSXCsPgls_sak52al?usp=sharing)**  
+*Python, Faker, Pandas, NumPy*  
+Simulated abortion law policy changes across 50 U.S. states using generated time-series data. Created a framework for tracking restriction dates, intensity, and total pregnancy rates to evaluate hypothetical legislative impacts post-Roe v. Wade.
+
+**[Wine Quality Clustering & Classification](https://colab.research.google.com/drive/1LmQ2Iu556C992h4HZUFIWesXM-OuduTV?usp=sharing)**  
+*Python, Seaborn, Matplotlib, Scikit-learn*  
+Analyzed chemical properties of wines and used clustering and classification algorithms to identify drivers of quality. Highlighted alcohol content, acidity, and residual sugar as leading indicators for wine scoring and market segmentation.
+
+**[Utah Jazz Free Agency Analysis](https://colab.research.google.com/drive/1lo1Es_akJ6Q3_B2nyTgpTRElNVT-_igt?usp=sharing)**  
+*Python, KMeans, Pandas, Scikit-learn*  
+Built a custom dataset merging player stats and salary data to support free agency decisions for the Utah Jazz. Identified undervalued interior defenders using clustering and data visualization to improve roster efficiency post-Rudy Gobert.
+
+**[University Retention Study](https://colab.research.google.com/drive/1tv8BiCay0cslDpJgkJbm_jufSfN0eok0?usp=sharing)**  
+*Excel, Python, Seaborn, Pandas*  
+Explored university retention data across demographics, event attendance, and academic outcomes. Produced visual insights and summary statistics to support policy decisions aimed at increasing retention and improving student support strategies.
+
+**[Retail Segmentation with K-Means Clustering](https://colab.research.google.com/drive/1LzQww9JazEycS2sxJyeUR-b_61zGvdd3?usp=sharing)**  
+*Python, Pandas, Scikit-learn, Matplotlib*  
+Segmented retail transaction data using K-means clustering and feature engineering to identify customer behavior groups. Delivered actionable insights to support personalized marketing strategies.
+
+**[OLS Regression Analysis](https://colab.research.google.com/drive/1JIRbCgiYkU2E6qcyYsS1JTpmvRo-jFsS?usp=sharing)**  
+*Python, statsmodels, seaborn*  
+Built multiple linear regression models to analyze economic factors influencing business outcomes. Incorporated non-linear and interaction terms; interpreted coefficients and residuals with an R² of over 0.85.
+
+**[A/B Testing on Digital Campaigns](https://colab.research.google.com/drive/1G8OZEeHfswuwMtwn0CkhQdoJTEbMs3aN?usp=sharing)**  
+*Python, SciPy.stats*  
+Performed hypothesis testing on Facebook ads and Starbucks promotions to evaluate promotional effectiveness. Conducted t-tests and confidence interval analyses to guide marketing budget allocation.
+
+**[Yelp Review Data Exploration](https://colab.research.google.com/drive/1YivrzRLORqhxaFPlkVTb7NlS0WHGESLF?usp=sharing)**  
+*NumPy, pandas, matplotlib*
+Performed data cleaning, subsetting, merging, and exploratory analysis on a Yelp reviews dataset. Created visualizations to highlight customer sentiment trends and business performance indicators.
+
+---
+
+### **Professional Experience**
+
+**Marketing Representative**  
+Federated Insurance, Henderson, NV | June 2024 – Present  
+- Executed door-to-door B2B sales strategy for property & casualty, life, and disability insurance, managing a personal book of business worth $800,000+ in premium.  
+- Led in-depth conversations with business owners about succession planning and asset protection, tailoring risk solutions to client-specific needs.  
+- Delivered insurance proposals averaging $15,000–$25,000 and pitched accounts as large as $360,000, including a regional HVAC contractor.  
+- Conducted localized risk management meetings using geographic and industry trend data to produce actionable insights and strategic recommendations.  
+- Developed persuasive sales messaging and maintained consistent client interaction to foster trust and drive retention through face-to-face consultations.
+
+**Research Assistant – Economics Department**  
+Southern Utah University, Cedar City, UT | Aug 2022 – Apr 2024  
+- Reviewed peer research papers and provided technical and analytical feedback to improve econometric rigor and clarity.  
+- Collaborated on a multi-year research project assessing the economic impact of sports stadiums on county-level activity using Stata, Python, and Excel.  
+- Participated in academic discussions on economic trends, assigning research tasks aligned with team objectives and members' strengths.
+---
+
+### **Education**
+
+**B.S. Economics** – *Minor in Professional Sales*  
+Southern Utah University, Cedar City, UT | April 2024  
+- **GPA:** 3.7, Magna Cum Laude, First-Generation Graduate  
+- **Concentration:** Analytics  
+- **Relevant Coursework:** Applied Statistics, Econometrics I & II, Data Analytics I & II, Business Calculus, Decision Modeling
+
+---
+
+### **Honors & Activities**
+
+- Outstanding Student in Professional Sales, Dixie L. Leavitt School of Business (2024)  
+- Recruiter of the Year, SUU Presidential Ambassadors (2022)  
+- Coach, Cedar City Youth Football (2024)  
