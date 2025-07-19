@@ -28,7 +28,7 @@ Segmented retail transaction data using K-means clustering and feature engineeri
 *Python, statsmodels, seaborn*  
 Built multiple linear regression models to analyze economic factors influencing business outcomes. Incorporated non-linear and interaction terms; interpreted coefficients and residuals with an R² of over 0.85.
 
-**A/B Testing on Digital Campaigns**  
+**[A/B Testing on Digital Campaigns](https://colab.research.google.com/drive/1G8OZEeHfswuwMtwn0CkhQdoJTEbMs3aN?usp=sharing)**  
 *Python, SciPy.stats*  
 Performed hypothesis testing on Facebook ads and Starbucks promotions to evaluate promotional effectiveness. Conducted t-tests and confidence interval analyses to guide marketing budget allocation.
 
@@ -42,8 +42,11 @@ Performed data cleaning, subsetting, merging, and exploratory analysis on a Yelp
 
 **Marketing Representative**  
 Federated Insurance, Henderson, NV | June 2024 – Present  
-- Conducted risk assessments for commercial clients with $800,000+ in insurance premiums, emphasizing analytical problem-solving and ethical decision-making.  
-- Translated qualitative data into actionable recommendations through client interviews, trend tracking, and policy reviews.
+- Executed door-to-door B2B sales strategy for property & casualty, life, and disability insurance, managing a personal book of business worth $800,000+ in premium.  
+- Led in-depth conversations with business owners about succession planning and asset protection, tailoring risk solutions to client-specific needs.  
+- Delivered insurance proposals averaging $15,000–$25,000 and pitched accounts as large as $360,000, including a regional HVAC contractor.  
+- Conducted localized risk management meetings using geographic and industry trend data to produce actionable insights and strategic recommendations.  
+- Developed persuasive sales messaging and maintained consistent client interaction to foster trust and drive retention through face-to-face consultations.
 
 **Research Assistant – Economics Department**  
 Southern Utah University, Cedar City, UT | Aug 2022 – Apr 2024  
@@ -58,7 +61,7 @@ Southern Utah University, Cedar City, UT | Aug 2022 – Apr 2024
 Southern Utah University, Cedar City, UT | April 2024  
 - **GPA:** 3.7, Magna Cum Laude, First-Generation Graduate  
 - **Concentration:** Analytics  
-- **Relevant Coursework:** Applied Statistics, Econometrics I & II, Data Analytics I & II, Business Calculus
+- **Relevant Coursework:** Applied Statistics, Econometrics I & II, Data Analytics I & II, Business Calculus, Decision Modeling
 
 ---
 
