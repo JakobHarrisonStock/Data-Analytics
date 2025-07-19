@@ -24,7 +24,7 @@ Analytical and detail-oriented Economics graduate with a concentration in Analyt
 *Python, Pandas, Scikit-learn, Matplotlib*  
 Segmented retail transaction data using K-means clustering and feature engineering to identify customer behavior groups. Delivered actionable insights to support personalized marketing strategies.
 
-**OLS Regression Analysis**  
+**[OLS Regression Analysis](https://colab.research.google.com/drive/1JIRbCgiYkU2E6qcyYsS1JTpmvRo-jFsS?usp=sharing)**  
 *Python, statsmodels, seaborn*  
 Built multiple linear regression models to analyze economic factors influencing business outcomes. Incorporated non-linear and interaction terms; interpreted coefficients and residuals with an R² of over 0.85.
 
