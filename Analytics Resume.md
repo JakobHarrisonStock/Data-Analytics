@@ -20,7 +20,7 @@ Analytical and detail-oriented Economics graduate with a concentration in Analyt
 
 ### **Projects**
 
-**Retail Segmentation with K-Means Clustering**  
+**[Retail Segmentation with K-Means Clustering](https://colab.research.google.com/drive/1LzQww9JazEycS2sxJyeUR-b_61zGvdd3?usp=sharing)**  
 *Python, Pandas, Scikit-learn, Matplotlib*  
 Segmented retail transaction data using K-means clustering and feature engineering to identify customer behavior groups. Delivered actionable insights to support personalized marketing strategies.
 
