@@ -20,22 +20,6 @@ Analytical and detail-oriented Economics graduate with a concentration in Analyt
 
 ### **Projects**
 
-**[Retail Segmentation with K-Means Clustering](https://colab.research.google.com/drive/1LzQww9JazEycS2sxJyeUR-b_61zGvdd3?usp=sharing)**  
-*Python, Pandas, Scikit-learn, Matplotlib*  
-Segmented retail transaction data using K-means clustering and feature engineering to identify customer behavior groups. Delivered actionable insights to support personalized marketing strategies.
-
-**[OLS Regression Analysis](https://colab.research.google.com/drive/1JIRbCgiYkU2E6qcyYsS1JTpmvRo-jFsS?usp=sharing)**  
-*Python, statsmodels, seaborn*  
-Built multiple linear regression models to analyze economic factors influencing business outcomes. Incorporated non-linear and interaction terms; interpreted coefficients and residuals with an R² of over 0.85.
-
-**[A/B Testing on Digital Campaigns](https://colab.research.google.com/drive/1G8OZEeHfswuwMtwn0CkhQdoJTEbMs3aN?usp=sharing)**  
-*Python, SciPy.stats*  
-Performed hypothesis testing on Facebook ads and Starbucks promotions to evaluate promotional effectiveness. Conducted t-tests and confidence interval analyses to guide marketing budget allocation.
-
-**[Yelp Review Data Exploration](https://colab.research.google.com/drive/1YivrzRLORqhxaFPlkVTb7NlS0WHGESLF?usp=sharing)**  
-*NumPy, pandas, matplotlib*  
-Performed data cleaning, subsetting, merging, and exploratory analysis on a Yelp reviews dataset. Created visualizations to highlight customer sentiment trends and business performance indicators.
-
 **[Insurance Claims Prediction](https://colab.research.google.com/drive/143RGJsOUCCKHHPiC14C5WaI5Emr_uPXe?usp=sharing)**  
 *Python, Random Forest, Pandas, NumPy*  
 Built a predictive model to estimate insurance claim amounts based on demographic and health data. Evaluated model performance using MAE and RMSE and identified key predictors of claim likelihood to support risk pricing and marketing strategy.
@@ -56,6 +40,21 @@ Built a custom dataset merging player stats and salary data to support free agen
 *Excel, Python, Seaborn, Pandas*  
 Explored university retention data across demographics, event attendance, and academic outcomes. Produced visual insights and summary statistics to support policy decisions aimed at increasing retention and improving student support strategies.
 
+**[Retail Segmentation with K-Means Clustering](https://colab.research.google.com/drive/1LzQww9JazEycS2sxJyeUR-b_61zGvdd3?usp=sharing)**  
+*Python, Pandas, Scikit-learn, Matplotlib*  
+Segmented retail transaction data using K-means clustering and feature engineering to identify customer behavior groups. Delivered actionable insights to support personalized marketing strategies.
+
+**[OLS Regression Analysis](https://colab.research.google.com/drive/1JIRbCgiYkU2E6qcyYsS1JTpmvRo-jFsS?usp=sharing)**  
+*Python, statsmodels, seaborn*  
+Built multiple linear regression models to analyze economic factors influencing business outcomes. Incorporated non-linear and interaction terms; interpreted coefficients and residuals with an R² of over 0.85.
+
+**[A/B Testing on Digital Campaigns](https://colab.research.google.com/drive/1G8OZEeHfswuwMtwn0CkhQdoJTEbMs3aN?usp=sharing)**  
+*Python, SciPy.stats*  
+Performed hypothesis testing on Facebook ads and Starbucks promotions to evaluate promotional effectiveness. Conducted t-tests and confidence interval analyses to guide marketing budget allocation.
+
+**[Yelp Review Data Exploration](https://colab.research.google.com/drive/1YivrzRLORqhxaFPlkVTb7NlS0WHGESLF?usp=sharing)**  
+*NumPy, pandas, matplotlib*  
+Performed data cleaning, subsetting, merging, and exploratory analysis on a Yelp reviews dataset. Created visualizations to highlight customer sentiment trends and business performance indicators.
 ---
 
 ### **Professional Experience**
